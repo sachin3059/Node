@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "* Understanding the Global object",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin3059/Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin3059/Node/issues"
+  },
+  "homepage": "https://github.com/sachin3059/Node#readme",
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
+}
